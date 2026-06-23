@@ -2,3 +2,8 @@
 *.swp
 *.log
 monitor/
+# monitor runtime artifacts (when run from the repo for testing)
+state.json
+INBOX.md
+launchd.out
+launchd.err
