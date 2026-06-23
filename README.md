@@ -11,6 +11,8 @@ into oblivion.
 It's **one auditable Bash file**. No dependencies. (Yes — a `node_modules` cleaner that
 isn't itself an npm package that installs a `node_modules`.) Read it before you run it.
 
+![swarf in action](assets/demo.gif)
+
 ```
 $ swarf scan
 
